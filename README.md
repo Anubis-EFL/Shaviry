@@ -19,6 +19,9 @@ El cambio en un monitor CRT es instantaneo, aunque en un LCD, por lo menos en el
 
 Tambien hay un jumper soldable donde elegir activar o desactivar el filtro del amplificador, hay que elegir una u otra, aunque el filtro emborrona un poco la imagen del Amiga.
 
+Lista de componentes:
+  Próximamente.
+  
 Agunas imágenes.
 
 Shaviry Con Shaviry
