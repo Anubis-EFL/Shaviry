@@ -19,14 +19,18 @@ Tambien hay un jumper soldable donde elegir activar o desactivar el filtro del a
 
 Agunas imágenes.
 
+Shaviry Con Shaviry
 ![Image Alt text](/imagenes/Shaviry_adapter_1.jpg "Shaviry con Shaviry"))
+Shaviry diciendole a Shaviry quien manda.
 ![Image Alt text](/imagenes/Shaviry_adapter_2.jpg "Shaviry discutiendo con Shaviry"))
+Algunas Vistas:
 ![Image Alt text](/imagenes/Shaviry_adapter_3.jpg "Vista 1"))
 ![Image Alt text](/imagenes/Shaviry_adapter_4.jpg "Vista 2"))
 ![Image Alt text](/imagenes/Shaviry_adapter_5.jpg "Vista 3"))
 ![Image Alt text](/imagenes/Shaviry_adapter_6.jpg "Vista 4"))
 ![Image Alt text](/imagenes/Shaviry_adapter_7.jpg "Vista 5"))
-![Image Alt text](/imagenes/Shaviry_adapter_4.jpg "Junto al adaptador de Commodore. Está un poco guarro, pero es que lleva mas de 25 años enchufado a mi amiga 4000"))
+Junto al adaptador de Commodore. Si, está muy guarro, pero lleva mas de 25 años enchufado a mi Amiga 4000 y ni le he echado cuenta.
+![Image Alt text](/imagenes/Shaviry_adapter_8.jpg "Junto al adaptador de Commodore.))
 
 
 English
