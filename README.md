@@ -22,6 +22,10 @@ Tambien hay un jumper soldable donde elegir activar o desactivar el filtro del a
 
 Lista de componentes:
   Próximamente.
+
+Ante todo señalar que soy simpolemente un aficionado a la electrónica y puede haber cosas mejor hechas.
+
+Mis agradecimientos a Alberto Benitez (Lince o EA4GGE) por sus consejos, sin los cuales probablemente todavía me estaría comiendo la cabeza sobre como enrutar la pcb.
   
 Agunas imágenes.
 
