@@ -9,7 +9,7 @@ En principio hay dos opciones:
   1) SHarp Amiga Video Input switcheR sYstem.
   2) SHort for Amiga Video Input switcheR sYstem.
 
-Aunque solo he podido probarlo por el momento en un solo monitor (DELL SE2722H) de momento todavía se perciben un poco aunque algo menos que en el adaptador de Commodore,
+Aunque solo he podido probarlo por el momento en un solo monitor (DELL SE2722H) de momento las barras todavía se perciben un poco aunque algo menos que en el adaptador de Commodore,
 por lo menos en ese monitor concreto. Por lo tanto, hasta que pueda solucionar eso,  me quedaría con la segunda opción.
 
 El adaptador tiene unos jumpers para configurar su funcionamiento como solo adaptador de VGA por si no dispones de tarjeta gráfica o pistorm (con adaptador de HDMI a VGA)
