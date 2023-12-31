@@ -1,5 +1,6 @@
 # Shaviry
 Adaptador todo en uno del puerto de vídeo de Amiga a VGA con switch de monitores automático y amplificador RGB para intentar minimizar las barras verticales (jail bars).
+
 Advertencia: Esto no es un Scandoubler, tu monitor debe soportar 15khz.
 
 Sobre el nombre: Shaviry es nuestro agapornis que lleva con nosotros 15 años así que decidí ponerle su nombre para hacerle un homenaje y buscarle un acrónimo, algo forzado pero que mas o menos encaja.
