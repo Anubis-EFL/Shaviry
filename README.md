@@ -14,7 +14,9 @@ por lo menos en ese monitor concreto. Por lo tanto, hasta que pueda solucionar e
 El adaptador tiene unos jumpers para configurar su funcionamiento como solo adaptador de VGA por si no dispones de tarjeta gráfica o pistorm (con adaptador de HDMI a VGA)
 o como switch automático de entradas controlado por switchcontrol o, en el caso de pistorm, con la opción del driver P96. Si no quieres usar esa opción siempre puedes 
 accionar la conmutación insertando una señal de 5v, ya sea con un interruptor, arduino o lo que se te ocurra.
+
 El cambio en un monitor CRT es instantaneo, aunque en un LCD, por lo menos en el que he probado, se demora un poco mas.
+
 Tambien hay un jumper soldable donde elegir activar o desactivar el filtro del amplificador, hay que elegir una u otra, aunque el filtro emborrona un poco la imagen del Amiga.
 
 Agunas imágenes.
