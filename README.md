@@ -6,8 +6,8 @@ Adaptador todo en uno del puerto de vídeo de Amiga a VGA con switch de monitore
 Sobre el nombre: Shaviry es nuestro agapornis que lleva con nosotros 15 años así que decidí ponerle su nombre para hacerle un homenaje y buscarle un acrónimo, algo forzado pero que mas o menos encaja.
 En principio hay dos opciones:
 
-  1) SHarp Amiga Video Input switcheR sYstem.
-  2) SHort for Amiga Video Input switcheR sYstem.
+  1) ****SH****arp ****A****miga ****V****ideo ****I****nput switche****R**** s****Y****stem.
+  2) ****SH****ort for ****A****miga ****V****ideo ****I****nput switche****R**** s****Y****stem.
 
 Aunque solo he podido probarlo por el momento en un solo monitor (DELL SE2722H) de momento las barras todavía se perciben un poco aunque algo menos que en el adaptador de Commodore,
 por lo menos en ese monitor concreto. Por lo tanto, hasta que pueda solucionar eso,  me quedaría con la segunda opción.
