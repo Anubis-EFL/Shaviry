@@ -1,7 +1,7 @@
 # Shaviry
 Adaptador todo en uno del puerto de vídeo de Amiga a VGA con switch de monitores automático y amplificador RGB para intentar minimizar las barras verticales (jail bars).
 
-Advertencia: Esto no es un Scandoubler, tu monitor debe soportar 15khz.
+****Advertencia: Esto no es un Scandoubler, tu monitor debe soportar 15khz.****
 
 Sobre el nombre: Shaviry es nuestro agapornis que lleva con nosotros 15 años así que decidí ponerle su nombre para hacerle un homenaje y buscarle un acrónimo, algo forzado pero que mas o menos encaja.
 En principio hay dos opciones:
@@ -18,16 +18,28 @@ accionar la conmutación insertando una señal de 5v, ya sea con un interruptor,
 
 El cambio en un monitor CRT es instantaneo, aunque en un LCD, por lo menos en el que he probado, se demora un poco mas.
 
-Tambien hay un jumper soldable donde elegir activar o desactivar el filtro del amplificador, hay que elegir una u otra, aunque el filtro emborrona un poco la imagen del Amiga.
+Tambien hay un jumper soldable donde elegir activar o desactivar el filtro del amplificador, hay que elegir una u otra, aunque el filtro emborrona un poco la imagen del Amiga con el THS7374, falta probar el THS7376.
 
 Lista de componentes:
   Próximamente.
 
 Ante todo señalar que soy simplemente un aficionado a la electrónica y es mi primer proyecto en KiCad, así que puede haber cosas mejor hechas.
 
-Mis agradecimientos a Alberto Benitez (Lince o EA4GGE) por sus consejos, sin los cuales probablemente todavía me estaría comiendo la cabeza sobre como enrutar la pcb.
+Mis agradecimientos a Alberto Benitez (Lince / EA4GGE) por sus consejos, sin los cuales probablemente todavía me estaría comiendo la cabeza sobre como enrutar la pcb.
   
-Agunas imágenes.
+## Revisiones:
+
+  ****REV19122023****
+
+Revisión inicial.
+
+  
+ ****REV02012024****
+
+Cambiadas las entradas y salidas del amplificador para que sea totalmente compatible con los THS7373, 7HS7374 Y THS7376.
+
+   
+## Agunas imágenes.
 
 Shaviry Con Shaviry
 ![Image Alt text](/imagenes/Shaviry_adapter_1.jpg "Shaviry con Shaviry")
