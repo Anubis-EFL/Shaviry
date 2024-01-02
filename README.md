@@ -20,7 +20,7 @@ El cambio en un monitor CRT es instantaneo, aunque en un LCD, por lo menos en el
 
 Tambien hay un jumper soldable donde elegir activar o desactivar el filtro del amplificador, hay que elegir una u otra, aunque el filtro emborrona un poco la imagen del Amiga con el THS7374, falta probar el THS7376.
 
-Lista de componentes:
+****Lista de componentes:****
  | Componente | Valor | Tamaño |
  | --- | --- | --- |
  | R1, R2, R3, R4, R5, R6 | 75r | 0603 |
@@ -31,7 +31,7 @@ Lista de componentes:
  | FB1, FB2, FB3, FB4, FB5 | Ferrita | 0603 |
  | U1 | 74HCT14 | SO-14 |
  | U2 | SGM4717 | MSOP-10 |
- | U3 | THS7373/THS7374/THS7376 | TSSOP-14 |
+ | U3 | THS7373/THS7374/THS7376 (por determinar el mejor) | TSSOP-14 |
  | U4 | SGM330A | SSOP-16 |
  | U5 | PC817/EL817 | DIP-4 SMD |
  | J1 | DB23 Hembra | Para soldar en cable |
