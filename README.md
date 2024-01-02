@@ -36,7 +36,7 @@ Tambien hay un jumper soldable donde elegir activar o desactivar el filtro del a
  | U5 | PC817/EL817 | DIP-4 SMD |
  | J1 | DB23 Hembra | Para soldar en cable |
  | J2, J3 | DB15HD Hembra | Soldar en placa (tamaño próximamente) |
- | J4 | Tira de 3x2 pines para jumper | |
+ | J4 | Tira de 3x2 pines para jumper | 2x3 2,54mm |
  | Extras | 2 jumpers | |
  
  
