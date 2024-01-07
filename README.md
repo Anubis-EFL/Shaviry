@@ -26,23 +26,23 @@ El cambio en un monitor CRT es instantaneo, aunque en un LCD se demora un poco m
 Dicho todo esto, yo lo uso a diario y lo único que le echo de menos está en el monitor al que le falta tener relación de aspecto automática.
 
 ****Lista de componentes:****
- | Componente | Valor | Tamaño |
- | --- | --- | --- |
- | R1, R2, R3, R4, R5, R6 | 75r | 0603 |
- | R7 | 1k | 0603 |
- | R8 | 10k | 0603 |
- | C1 | 10nf | 0603 |
- | C2, C3, C4 | 100nf | 0603 |
- | FB1, FB2, FB3, FB4, FB5 | Ferrita | 0603 |
- | U1 | 74HCT14 | SO-14 |
- | U2 | SGM4717 | MSOP-10 |
- | U3 | THS7373/THS7374/THS7376 (por determinar el mejor) | TSSOP-14 |
- | U4 | SGM330A | SSOP-16 |
- | U5 | PC817/EL817 | DIP-4 SMD |
- | J1 | DB23 Hembra | Para soldar en cable |
- | J2, J3 | DB15HD Hembra | Soldar en placa 3,08mm |
- | J4 | Tira de 3x2 pines | 2,54mm |
- | Extras | 2 jumpers | |
+ | Componente | Valor | Tamaño | Cantidad |
+ | --- | --- | --- | --- |
+ | R1, R2, R3, R4, R5, R6 | 75r | 0603 | 6 |
+ | R7 | 1k | 0603 | 1 |
+ | R8 | 10k | 0603 | 1 |
+ | C1 | 10nf | 0603 | 1 |
+ | C2, C3, C4 | 100nf | 0603 | 3 |
+ | FB1, FB2, FB3, FB4, FB5 | Ferrita | 0603 | 5 |
+ | U1 | 74HCT14 | SO-14 | 1 |
+ | U2 | SGM4717 | MSOP-10 | 1 |
+ | U3 | THS7373/THS7374/THS7376 (por determinar el mejor) | TSSOP-14 | 1 |
+ | U4 | SGM330A | SSOP-16 | 1 |
+ | U5 | PC817/EL817 | DIP-4 SMD | 1 |
+ | J1 | DB23 Hembra | Para soldar en cable | 1 |
+ | J2, J3 | DB15HD Hembra | Soldar en placa 3,08mm | 2 |
+ | J4 | Tira de 3x2 pines | 2,54mm | 1 |
+ | Extras | jumpers | | 2 |
  
  
 
