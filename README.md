@@ -88,11 +88,13 @@ En un monitor LCD
 
 https://github.com/Anubis-EFL/Shaviry/assets/154557850/1416b5dd-fce8-4823-900b-c1d1edef9626
 
-En un monitor CRT (Microvitec 1438) El RTG sale desplazado por no tener totalmente ajustado el modo hdmi de la pistorm32
+En un monitor CRT (Microvitec 1438) El RTG sale desplazado por no tener totalmente ajustado el modo hdmi de la pistorm32.
 
 
 
-https://github.com/Anubis-EFL/Shaviry/assets/154557850/9c66501b-91af-4139-81d1-f830a63c2c03
+
+https://github.com/Anubis-EFL/Shaviry/assets/154557850/8ff55a74-0853-49b3-b4c9-93da17c70435
+
 
 
 
