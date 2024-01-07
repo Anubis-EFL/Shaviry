@@ -9,16 +9,21 @@ En principio hay dos opciones:
   1) ****SH****arp ****A****miga ****V****ideo ****I****nput switche****R**** s****Y****stem.
   2) ****SH****ort for ****A****miga ****V****ideo ****I****nput switche****R**** s****Y****stem.
 
-Aunque solo he podido probarlo por el momento en un solo monitor (DELL SE2722H) de momento las barras todavía se perciben un poco aunque algo menos que en el adaptador de Commodore,
-por lo menos en ese monitor concreto. Por lo tanto, hasta que pueda solucionar eso,  me quedaría con la segunda opción.
+Solo he podido probarlo por el momento en un solo monitor (DELL SE2722H) y con el THS7374. Las barras todavía se perciben un poco aunque algo menos que en el adaptador de Commodore,
+por lo menos en ese monitor concreto. Por lo tanto, hasta que pueda afinar eso,  me quedaría con la segunda opción.
+
+Ha sido probado en una máquina AGA y con el filtro del THS7374 emborrona un poco la imagen, falta probar en máquina OCS/ECS y tambien el THS7376 que tiene un ancho de banda mayor.
+
 
 El adaptador tiene unos jumpers para configurar su funcionamiento como solo adaptador de VGA por si no dispones de tarjeta gráfica o pistorm (con adaptador de HDMI a VGA)
 o como switch automático de entradas controlado por switchcontrol o, en el caso de pistorm, con la opción del driver P96. Si no quieres usar esa opción siempre puedes 
-accionar la conmutación insertando una señal de 5v, ya sea con un interruptor, arduino o lo que se te ocurra. La señal de 5v de conmutación está aislada con un optoacoplador para evitar sustos.
+accionar la conmutación insertando una señal de 5v controlandola con un interruptor, arduino o lo que se te ocurra. La señal de 5v de conmutación está aislada con un optoacoplador para evitar sustos.
 
-El cambio en un monitor CRT es instantaneo, aunque en un LCD, por lo menos en el que he probado, se demora un poco mas.
+Tambien hay un jumper soldable donde elegir activar o desactivar el filtro del amplificador, hay que elegir una u otra opción.
 
-Tambien hay un jumper soldable donde elegir activar o desactivar el filtro del amplificador, hay que elegir una u otra, aunque el filtro emborrona un poco la imagen del Amiga con el THS7374, falta probar el THS7376.
+El cambio en un monitor CRT es instantaneo, aunque en un LCD se demora un poco mas.
+
+Dicho todo esto, yo lo uso a diario y lo único que le echo de menos está en el monitor al que para ser perfecto le faltaría tener relación de aspecto automática.
 
 ****Lista de componentes:****
  | Componente | Valor | Tamaño |
@@ -36,7 +41,7 @@ Tambien hay un jumper soldable donde elegir activar o desactivar el filtro del a
  | U5 | PC817/EL817 | DIP-4 SMD |
  | J1 | DB23 Hembra | Para soldar en cable |
  | J2, J3 | DB15HD Hembra | Soldar en placa 3,08mm |
- | J4 | Tira de 3x2 pines para jumper | 2x3 2,54mm |
+ | J4 | Tira de 3x2 pines | 2,54mm |
  | Extras | 2 jumpers | |
  
  
@@ -47,6 +52,8 @@ Ante todo señalar que soy simplemente un aficionado a la electrónica y es mi p
 Mis agradecimientos a Alberto Benitez (Lince / EA4GGE) por sus consejos, sin los cuales probablemente todavía me estaría comiendo la cabeza sobre como enrutar la pcb.
   
 ## Revisiones:
+
+Las revisiones se nombran como REV seguido de la fecha en formato dd/mm/aaaa
 
   ****REV19122023****
 
@@ -75,7 +82,7 @@ Junto al adaptador de Commodore. Si, está muy guarro, pero lleva mas de 25 año
 ![Image Alt text](/imagenes/Shaviry_adapter_8.jpg "Junto al adaptador de Commodore")
 
 
-English
+# English
 
 All in one Amiga video port adapter to VGA with auto monitor switcher and RGB amplifier.
 
