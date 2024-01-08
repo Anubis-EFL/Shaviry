@@ -93,9 +93,7 @@ En un monitor CRT (Microvitec 1438) El RTG sale desplazado por no tener totalmen
 
 
 
-https://github.com/Anubis-EFL/Shaviry/assets/154557850/8ff55a74-0853-49b3-b4c9-93da17c70435
-
-
+https://github.com/Anubis-EFL/Shaviry/assets/154557850/919e8689-20b6-4c1b-af77-966b4a6acc1a
 
 
 
