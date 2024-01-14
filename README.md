@@ -9,17 +9,19 @@ En principio hay dos opciones:
   1) ****SH****arp ****A****miga ****V****ideo ****I****nput switche****R**** s****Y****stem.
   2) ****SH****ort for ****A****miga ****V****ideo ****I****nput switche****R**** s****Y****stem.
 
-He podido probarlo por el momento en un solo monitor (DELL SE2722H). Las barras todavía se perciben un poco aunque algo menos que en el adaptador de Commodore,
-por lo menos en ese monitor concreto. En una foto de la pantalla no se aprecian así que no pueden mostrarse por lo que no se si es ya obsesión mía. Por lo tanto, hasta que pueda afinar eso y probar otros monitores,  me quedaría con la segunda opción.
+He podido probarlo por el momento en un solo monitor (DELL SE2722H). Las barras todavía se perciben un poco aunque menos que en el adaptador de Commodore,
+por lo menos en ese monitor concreto. En una foto de la pantalla no se aprecian y no pueden mostrarse por lo que no se si es ya obsesión mía. Por tanto, hasta que pueda afinar eso y probar otros monitores,  me quedaría con la segunda opción.
 
-Las pruebas han sido en una máquina AGA y con el amplificador RGB THS7174. El filtro de este integrado emborrona un poco la imagen en AGA al tener un ancho de banda de solo 9,5Mhz que debería ser óptimo para una máquina OCS/ECS. Falta probar en máquina OCS/ECS y tambien con el THS7376 que tiene un ancho de banda mayor.
+Las pruebas han sido en una máquina AGA y con el amplificador RGB THS7374. El filtro de este integrado emborrona un poco la imagen en AGA al tener un ancho de banda de solo 9,5Mhz que debería ser óptimo para una máquina OCS/ECS. Falta probar en máquina OCS/ECS y tambien con el THS7376 que tiene un ancho de banda mayor.
 
 
 El adaptador tiene unos jumpers para configurar su funcionamiento como solo adaptador de VGA por si no dispones de tarjeta gráfica o pistorm (con adaptador de HDMI a VGA)
 o como switch automático de entradas controlado por switchcontrol o, en el caso de pistorm, con la opción del driver P96. Si no quieres usar esa opción siempre puedes 
-accionar la conmutación insertando una señal de 5v controlandola con un interruptor, arduino o lo que se te ocurra. La señal de 5v de conmutación está aislada con un optoacoplador para evitar sustos.
+accionar la conmutación insertando una señal de 5v controlandola con un interruptor, arduino o lo que se te ocurra.
 
-Tambien hay un jumper soldable donde elegir activar o desactivar el filtro del amplificador, hay que elegir una u otra opción.
+La señal de 5v de conmutación está aislada con un optoacoplador para evitar sustos.
+
+Tambien hay un jumper soldable donde elegir activar o desactivar el filtro del amplificador, hay que elegir una u otra opción, no se debe dejar flotante.
 
 El cambio en un monitor CRT es instantaneo, aunque en un LCD se demora un poco mas.
 
