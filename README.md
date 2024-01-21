@@ -9,10 +9,10 @@ En principio hay dos opciones:
   1) ****SH****arp ****A****miga ****V****ideo ****I****nput switche****R**** s****Y****stem.
   2) ****SH****ort for ****A****miga ****V****ideo ****I****nput switche****R**** s****Y****stem.
 
-He podido probarlo por el momento en un solo monitor (DELL SE2722H). Las barras todavía se perciben un poco aunque menos que en el adaptador de Commodore,
+He podido probarlo por el momento en un solo monitor (DELL SE2722H). Con el THS7374 las barras todavía se perciben un poco aunque menos que en el adaptador de Commodore. Con el THS7376 son casi imperceptibles pero las sigo notando, 
 por lo menos en ese monitor concreto. En una foto de la pantalla no se aprecian y no pueden mostrarse por lo que no se si es ya obsesión mía. Por tanto, hasta que pueda afinar eso y probar otros monitores,  me quedaría con la segunda opción.
 
-Las pruebas han sido en una máquina AGA y con el amplificador RGB THS7374. El filtro de este integrado emborrona un poco la imagen en AGA al tener un ancho de banda de solo 9,5Mhz que debería ser óptimo para una máquina OCS/ECS. Falta probar en máquina OCS/ECS y tambien con el THS7376 que tiene un ancho de banda mayor.
+Las pruebas han sido en una máquina AGA y con los amplificadores RGB THS7374 y THS7376. El filtro del THS7374 emborrona un poco la imagen en AGA al tener un ancho de banda de solo 9,5Mhz que debería ser óptimo para una máquina OCS/ECS el del THS7376, al tener un ancho de banda mayor, muestra la imagen totalmente clara. Falta probar en máquina OCS/ECS.
 
 
 El adaptador tiene unos jumpers para configurar su funcionamiento como solo adaptador de VGA por si no dispones de tarjeta gráfica o pistorm (con adaptador de HDMI a VGA)
@@ -21,7 +21,7 @@ accionar la conmutación insertando una señal de 5v controlandola con un interr
 
 La señal de 5v de conmutación está aislada con un optoacoplador para evitar sustos.
 
-Tambien hay un jumper soldable donde elegir activar o desactivar el filtro del amplificador, hay que elegir una u otra opción, no se debe dejar flotante.
+Tambien hay un jumper soldable donde elegir activar o desactivar el filtro del amplificador, hay que elegir una u otra opción, no se debe dejar flotante. Para AGA y THS7376 es recomendable dejarlo activo.
 
 El cambio en un monitor CRT es instantaneo, aunque en un LCD se demora un poco mas.
 
@@ -38,7 +38,7 @@ Dicho todo esto, yo lo uso a diario y lo único que le echo de menos está en el
  | FB1, FB2, FB3, FB4, FB5 | Ferrita | 0603 | 5 |
  | U1 | 74HCT14 | SO-14 | 1 |
  | U2 | SGM4717 | MSOP-10 | 1 |
- | U3 | THS7373/THS7374/THS7376 (por determinar el mejor) | TSSOP-14 | 1 |
+ | U3 | THS7373/THS7374/THS7376 | TSSOP-14 | 1 |
  | U4 | SGM330A | SSOP-16 | 1 |
  | U5 | PC817/EL817 | DIP-4 SMD | 1 |
  | J1 | DB23 Hembra | Para soldar en cable | 1 |
