@@ -66,7 +66,10 @@ Revisión inicial.
 
 Cambiadas las entradas y salidas del amplificador para que sea totalmente compatible con los THS7373, 7HS7374 Y THS7376.
 
-   
+ ****REV21012024****
+ 
+Cambiado el punto de conexión de la pista de la entrada G del RGB del Amiga al amplificador. No hay cambios en funcionalidad ya que va al mismo sítio pero por otro lado.
+ 
 ## Agunas imágenes.
 
 Shaviry Con Shaviry
