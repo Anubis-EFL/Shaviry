@@ -59,7 +59,7 @@ Las revisiones se nombran como REV seguido de la fecha en formato dd/mm/aaaa
 
   ****REV19122023****
 
-Revisión inicial.
+Revisión inicial. (Publicada el 31/12/2023)
 
   
  ****REV02012024****
@@ -69,6 +69,11 @@ Cambiadas las entradas y salidas del amplificador para que sea totalmente compat
  ****REV21012024****
  
 Cambiado el punto de conexión de la pista de la entrada G del RGB del Amiga al amplificador. No hay cambios en funcionalidad ya que va al mismo sítio pero por otro lado.
+
+ ****REV23012024****
+
+ Eliminadas todas las islas de masa sin conectar.
+
  
 ## Agunas imágenes.
 
