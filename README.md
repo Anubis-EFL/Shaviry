@@ -16,7 +16,7 @@ Las pruebas han sido en una máquina AGA y con los amplificadores RGB THS7374 y 
 
 
 El adaptador tiene unos jumpers para configurar su funcionamiento como solo adaptador de VGA por si no dispones de tarjeta gráfica o pistorm (con adaptador de HDMI a VGA)
-o como switch automático de entradas controlado por switchcontrol o, en el caso de pistorm, con la opción del driver P96. Si no quieres usar esa opción siempre puedes 
+o como switch automático de entradas controlado por switchcontrol. En el caso de pistorm puedes usar la opción del driver P96. Si no quieres usar esa opción siempre puedes 
 accionar la conmutación insertando una señal de 5v controlandola con un interruptor, arduino o lo que se te ocurra.
 
 La señal de 5v de conmutación está aislada con un optoacoplador para evitar sustos.
@@ -41,8 +41,8 @@ Dicho todo esto, yo lo uso a diario y lo único que le echo de menos está en el
  | U3 | THS7373/THS7374/THS7376 | TSSOP-14 | 1 |
  | U4 | SGM330A | SSOP-16 | 1 |
  | U5 | PC817/EL817 | DIP-4 SMD | 1 |
- | J1 | DB23 Hembra | Para soldar en cable | 1 |
- | J2, J3 | DB15HD Hembra | Soldar en placa 3,08mm | 2 |
+ | J1 | DB23 Hembra | Para cable | 1 |
+ | J2, J3 | DB15HD Hembra | Para PCB 3,08mm | 2 |
  | J4 | Tira de 3x2 pines | 2,54mm | 1 |
  | Extras | jumpers | | 2 |
  
