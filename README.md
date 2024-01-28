@@ -1,5 +1,5 @@
 # Shaviry
-Adaptador todo en uno del puerto de vídeo de Amiga a VGA con switch de monitores automático y amplificador RGB para intentar minimizar las barras verticales (jail bars).
+Adaptador todo en uno del puerto de vídeo de Amiga a VGA con switch de monitores automático y amplificador RGB para minimizar las barras verticales (jail bars).
 
 ****Advertencia: Esto no es un Scandoubler, tu monitor debe soportar 15khz.****
 
