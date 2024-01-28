@@ -9,7 +9,7 @@ En principio hay dos opciones:
   1) ****SH****arp ****A****miga ****V****ideo ****I****nput switche****R**** s****Y****stem.
   2) ****SH****ort for ****A****miga ****V****ideo ****I****nput switche****R**** s****Y****stem.
 
-He podido probarlo por el momento en un solo monitor (DELL SE2722HX). Con el THS7374 las barras todavía se perciben un poco aunque menos que en el adaptador de Commodore. Con el THS7376 son casi imperceptibles pero las sigo notando si las busco activamente, en uso normal (juegos, demos... etc) el 90% del tiempo no las percibo, 
+He podido probarlo por el momento en un solo monitor (DELL SE2722HX). Con el THS7374 las barras todavía se perciben un poco aunque menos que en el adaptador de Commodore. Con el THS7376 son casi imperceptibles pero las sigo notando si las busco activamente. En uso normal (juegos, demos... etc) el 90% del tiempo no las percibo, 
 por lo menos en ese monitor concreto. No se aprecian en una foto de la pantalla y no pueden mostrarse, por lo que no se si es ya obsesión mía. Por tanto, hasta que pueda afinar eso y probar otros monitores,  me quedaría con la segunda opción.
 
 Las pruebas han sido en una máquina AGA y con los amplificadores RGB THS7374 y THS7376. El filtro del THS7374 emborrona un poco la imagen en AGA al tener un ancho de banda de solo 9,5Mhz que debería ser óptimo para una máquina OCS/ECS el del THS7376, al tener un ancho de banda mayor, muestra la imagen totalmente clara. Falta probar en máquina OCS/ECS.
