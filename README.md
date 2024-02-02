@@ -12,7 +12,7 @@ En principio hay dos opciones:
 He podido probarlo por el momento en un solo monitor (DELL SE2722HX). Con el THS7374 las barras todavía se perciben un poco aunque menos que en el adaptador de Commodore. Con el THS7376 son casi imperceptibles pero las sigo notando si las busco activamente. En uso normal (juegos, demos... etc) la mayoría del tiempo ni las percibo, 
 por lo menos en ese monitor concreto. No se aprecian en una foto de la pantalla (o casi), por lo que no se si es ya obsesión mía. Por tanto, hasta que pueda afinar eso y probar otros monitores,  me quedaría con la segunda opción.
 
-De todas formas ahí va una foto con el THS7376 con el filtro activo.
+De todas formas ahí va la típica foto. Con THS7376 y el filtro activo.
 
 ![Image Alt text](/imagenes/Amiga_boot_con_Shaviry.jpg "Boot Screen")
 
