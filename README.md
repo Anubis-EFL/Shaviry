@@ -21,9 +21,14 @@ De todas formas ahí va la típica foto. Con THS7376 y el filtro activo.
 
 ![Image Alt text](/imagenes/Amiga_boot_con_Shaviry.jpg "Boot Screen")
 
-El adaptador tiene unos jumpers para configurar su funcionamiento como solo adaptador de VGA por si no dispones de tarjeta gráfica o pistorm (con adaptador de HDMI a VGA)
-o como switch automático de entradas controlado por switchcontrol. En el caso de pistorm puedes usar la opción del driver P96. Si no quieres usar esa opción siempre puedes 
-accionar la conmutación insertando una señal de 5v controlandola con un interruptor, arduino o lo que se te ocurra.
+El adaptador tiene unos jumpers para configurar su funcionamiento de dos formas:
+
+ 1) Como solo adaptador a VGA por si no dispones de tarjeta gráfica o pistorm (con adaptador de HDMI a VGA)
+ 2)  Como switch automático de entradas controlado por una señal de 5v.
+ 
+   Esta señal puede ser la que envía switchcontrol por la CIA o el puerto paralelo. En el caso de pistorm puedes sustituir switchcontrol por la opción del driver P96.
+  
+   Si no quieres usar esas opciónes siempre puedes accionar la conmutación insertando una señal de 5v controlandola con un interruptor, arduino o lo que se te ocurra.
 
 La señal de 5v de conmutación está aislada con un optoacoplador para evitar sustos.
 
