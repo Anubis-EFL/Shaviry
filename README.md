@@ -15,7 +15,7 @@ Con el THS7374 y el filtro activo las barras todavía se perciben un poco y la i
 
 Con el THS7376 son casi imperceptibles aunque, en ocasiones, las sigo notando si las busco activamente. En uso normal (juegos, demos... etc) la mayoría del tiempo ni las percibo.
 
-No se aprecian en una foto de la pantalla (o casi), por lo que no se si es ya obsesión mía. Por tanto, hasta que pueda afinar eso y probar otros monitores,  me quedaría con la segunda opción.
+No se aprecian en una foto de la pantalla (o casi), por lo que no se si es ya obsesión mía. Por tanto, hasta que pueda hacer mas pruebas, me quedaría con la segunda opción.
 
 De todas formas ahí va la típica foto. Con THS7376 y el filtro activo.
 
