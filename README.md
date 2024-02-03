@@ -1,5 +1,5 @@
 # Shaviry
-Adaptador todo en uno del puerto de vídeo de Amiga a VGA con switch de monitores automático y amplificador RGB para minimizar las barras verticales (jail bars).
+Adaptador todo en uno del puerto de vídeo de Amiga a VGA con switch de monitores automático y amplificador RGB para minimizar las barras verticales (jail bars) típicas en LCD.
 
 ****Advertencia: Esto no es un Scandoubler, tu monitor debe soportar 15khz.****
 
@@ -9,15 +9,17 @@ En principio hay dos opciones:
   1) ****SH****arp ****A****miga ****V****ideo ****I****nput switche****R**** s****Y****stem.
   2) ****SH****ort for ****A****miga ****V****ideo ****I****nput switche****R**** s****Y****stem.
 
-He podido probarlo por el momento en un solo monitor (DELL SE2722HX). Con el THS7374 las barras todavía se perciben un poco aunque menos que en el adaptador de Commodore. Con el THS7376 son casi imperceptibles pero las sigo notando si las busco activamente. En uso normal (juegos, demos... etc) la mayoría del tiempo ni las percibo, 
-por lo menos en ese monitor concreto. No se aprecian en una foto de la pantalla (o casi), por lo que no se si es ya obsesión mía. Por tanto, hasta que pueda afinar eso y probar otros monitores,  me quedaría con la segunda opción.
+Las pruebas han sido en un monitor DELL SE2722HX con una máquina AGA y los amplificadores THS7374 y THS7376.
+
+Con el THS7374 las barras todavía se perciben un poco y la imagen es un poco borrosa debido a que el ancho de banda es de solo 9,5mhz.
+
+Con el THS7376 son casi imperceptibles aunque, en ocasiones, las sigo notando si las busco activamente. En uso normal (juegos, demos... etc) la mayoría del tiempo ni las percibo.
+
+No se aprecian en una foto de la pantalla (o casi), por lo que no se si es ya obsesión mía. Por tanto, hasta que pueda afinar eso y probar otros monitores,  me quedaría con la segunda opción.
 
 De todas formas ahí va la típica foto. Con THS7376 y el filtro activo.
 
 ![Image Alt text](/imagenes/Amiga_boot_con_Shaviry.jpg "Boot Screen")
-
-Las pruebas han sido en una máquina AGA y con los amplificadores RGB THS7374 y THS7376. El filtro del THS7374 emborrona un poco la imagen en AGA al tener un ancho de banda de solo 9,5Mhz que debería ser óptimo para una máquina OCS/ECS el del THS7376, al tener un ancho de banda mayor, muestra la imagen totalmente clara. Falta probar en máquina OCS/ECS.
-
 
 El adaptador tiene unos jumpers para configurar su funcionamiento como solo adaptador de VGA por si no dispones de tarjeta gráfica o pistorm (con adaptador de HDMI a VGA)
 o como switch automático de entradas controlado por switchcontrol. En el caso de pistorm puedes usar la opción del driver P96. Si no quieres usar esa opción siempre puedes 
@@ -25,11 +27,9 @@ accionar la conmutación insertando una señal de 5v controlandola con un interr
 
 La señal de 5v de conmutación está aislada con un optoacoplador para evitar sustos.
 
-Tambien hay un jumper soldable donde elegir activar o desactivar el filtro del amplificador, hay que elegir una u otra opción, no se debe dejar flotante. Para AGA y THS7376 es recomendable dejarlo activo.
+Tambien hay un jumper soldable donde elegir activar o desactivar el filtro del amplificador, hay que elegir una u otra opción, no se debe dejar flotante. Con el THS7376 es recomendable dejarlo activo.
 
 El cambio en un monitor CRT es instantaneo, aunque en un LCD se demora un poco mas.
-
-Dicho todo esto, yo lo uso a diario y lo único que le echo de menos está en el monitor al que le falta tener relación de aspecto automática.
 
 ****Lista de componentes:****
  | Componente | Valor | Tamaño | Cantidad |
