@@ -48,7 +48,7 @@ El cambio en un monitor CRT es instantaneo, aunque en un LCD se demora un poco m
  | J1 | DB23 Hembra | Para cable | 1 |
  | J2, J3 | DB15HD Hembra | Para PCB 3,08mm | 2 |
  | J4 | Tira de 3x2 pines | 2,54mm | 1 |
- | Extras | jumpers | | 2 |
+ | Otros | jumpers | | 2 |
  
  
 
