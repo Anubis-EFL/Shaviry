@@ -11,7 +11,7 @@ En principio hay dos opciones:
 
 Las pruebas han sido en un monitor DELL SE2722HX con una máquina AGA y los amplificadores THS7374 y THS7376.
 
-Con el THS7374 las barras todavía se perciben un poco y la imagen es un poco borrosa debido a que el ancho de banda es de solo 9,5mhz.
+Con el THS7374 y el filtro activo las barras todavía se perciben un poco y la imagen es un poco borrosa debido a que el ancho de banda del filtro es de solo 9,5mhz.
 
 Con el THS7376 son casi imperceptibles aunque, en ocasiones, las sigo notando si las busco activamente. En uso normal (juegos, demos... etc) la mayoría del tiempo ni las percibo.
 
