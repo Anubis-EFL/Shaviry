@@ -91,7 +91,7 @@ Shaviry with Shaviry
 ![Image Alt text](/imagenes/Shaviry_adapter_1.jpg "Shaviry with Shaviry")
 Shaviry telling Shaviry who's boss.
 ![Image Alt text](/imagenes/Shaviry_adapter_2.jpg "Shaviry arguing with Shaviry")
-Algunas Vistas:
+Some views:
 ![Image Alt text](/imagenes/Shaviry_adapter_3.jpg "Vista 1")
 ![Image Alt text](/imagenes/Shaviry_adapter_4.jpg "Vista 2")
 ![Image Alt text](/imagenes/Shaviry_adapter_5.jpg "Vista 3")
