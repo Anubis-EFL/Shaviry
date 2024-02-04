@@ -1,3 +1,4 @@
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Anubis-EFL/Shaviry/blob/main/README-en.md)
 # Shaviry
 Adaptador todo en uno del puerto de vídeo de Amiga a VGA con switch de monitores automático y amplificador RGB para minimizar las barras verticales (jail bars) típicas en LCD.
 
@@ -114,10 +115,3 @@ En un monitor CRT (Microvitec 1438) El RTG sale desplazado por no tener totalmen
 
 https://github.com/Anubis-EFL/Shaviry/assets/154557850/919e8689-20b6-4c1b-af77-966b4a6acc1a
 
-
-
-## English
-
-All in one Amiga video port adapter to VGA with auto monitor switcher and RGB amplifier.
-
-Coming soon...
