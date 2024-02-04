@@ -1,7 +1,7 @@
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/Anubis-EFL/Shaviry/blob/main/README.md)
 # Shaviry
 
- Amiga Video to VGA adapter and Monitor Switcher with RGB amplifier all in one 
+Amiga Video to VGA adapter and Monitor Switcher (with RGB amplifier to try to minimize the vertical bars) all in one
 
 ****Warning: This is not a scandoubler, your monitor must sync at 15Khz.****
 
